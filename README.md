@@ -6,11 +6,11 @@ Puedes poner en practica tus habilidades revisando y utilizando el código a con
 
 ## Índice
 
-* [1. Intro](url)
-* [2. Demo](url)
-* [3. ¿Qué contruirás?](url)
-* [4. Objetivos de aprendizaje](url)
-* [5. Requisitos](url)
+* [1. Intro](https://github.com/Caren-CA/clon-de-google#1-intro)
+* [2. Demo](https://github.com/Caren-CA/clon-de-google#2-demo)
+* [3. ¿Qué contruirás?](https://github.com/Caren-CA/clon-de-google#3-qu%C3%A9-construir%C3%A1s)
+* [4. Objetivos de aprendizaje](https://github.com/Caren-CA/clon-de-google#4-objetivos-de-aprendizaje)
+* [5. Requisitos](https://github.com/Caren-CA/clon-de-google#5-requisitos)
 
 ****
 
